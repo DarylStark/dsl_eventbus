@@ -1,0 +1,24 @@
+{
+    "name": "DSL",
+    "version": "0.0.1",
+    "description": "Framework",
+    "keywords": "framework",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/DarylStark/dsl/"
+    },
+    "authors": [
+        {
+            "name": "Daryl Stark",
+            "email": "daryl@dstark.nl",
+            "url": "https://github.com/DarylStark"
+        }
+    ],
+    "flags": [
+        "-std=gnu++17"
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/DarylStark/dsl/",
+    "frameworks": "*",
+    "platforms": "*"
+}
