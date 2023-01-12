@@ -1,5 +1,5 @@
-#ifndef __EVENTBUS_H__
-#define __EVENTBUS_H__
+#ifndef __DSL_EVENTBUS_H__
+#define __DSL_EVENTBUS_H__
 
 #include <string>
 #include <unordered_map>
@@ -51,4 +51,4 @@ namespace dsl
     };
 };
 
-#endif /* __EVENTBUS_H__ */
+#endif /* __DSL_EVENTBUS_H__ */
