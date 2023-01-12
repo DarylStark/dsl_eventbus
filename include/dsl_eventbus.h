@@ -35,7 +35,7 @@ namespace dsl
             std::unordered_map<std::string, std::list<EventSubscription>> __subscriptions;
 
         public:
-            void subscribe(const std::string event, EventSubscription function);
+            void subscribe(const std::string event, EventSubscription subscription);
             void unsubscribe(const std::string event, const std::string &identifier);
             void unsubscribe_all(const std::string event);
             void raise(const std::string event);
