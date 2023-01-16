@@ -1,11 +1,11 @@
 {
-    "name": "DSL",
+    "name": "DSL Eventbus",
     "version": "0.0.1",
-    "description": "Framework",
-    "keywords": "framework",
+    "description": "A eventbus to handle ad-hoc events",
+    "keywords": "tools",
     "repository": {
         "type": "git",
-        "url": "https://github.com/DarylStark/dsl/"
+        "url": "https://github.com/DarylStark/dsl_eventbus/"
     },
     "authors": [
         {
@@ -18,7 +18,7 @@
         "-std=gnu++17"
     ],
     "license": "MIT",
-    "homepage": "https://github.com/DarylStark/dsl/",
+    "homepage": "https://github.com/DarylStark/dsl_eventbus/",
     "frameworks": "*",
     "platforms": "*"
 }
