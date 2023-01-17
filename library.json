@@ -19,6 +19,9 @@
     ],
     "license": "MIT",
     "homepage": "https://github.com/DarylStark/dsl_eventbus/",
+    "dependencies": {
+        "dsl": "^0.0.1"
+    },
     "frameworks": "*",
     "platforms": "*"
 }
